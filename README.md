@@ -30,9 +30,9 @@ Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar
 <br/>
 ![resultados](https://user-images.githubusercontent.com/53863282/83974300-d04c3b00-a8c2-11ea-8943-66a351f8c2ca.PNG)
 
-## Siga-me 😀
+## Siga-me 
 
-* **```Linkedin```** - https://www.linkedin.com/in/mateus-rodrigues-bara%C3%A7al 
+* **```Linkedin```** - https://www.linkedin.com/in/felipe-soares-395342199/
 
 
 
