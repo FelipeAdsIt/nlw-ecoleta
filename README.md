@@ -1,7 +1,6 @@
 # ECOLETA
 
 Desafio proposto pela <strong>Rocketseat</strong> na semana NLW - *Next Level Week*
-Muito aprendizado.
 
 
 ## Resumo ✏
