@@ -3,19 +3,19 @@
 Desafio proposto pela <strong>Rocketseat</strong> na semana NLW - *Next Level Week*
 
 
-## Resumo ✏
+## Resumo 
 
-Uma aplicação de pontos de coleta de recicláveis, onde é possível cadastrar pontos novos de acordo com os recicláveis que cada ponto de coleta trabalha e também tem a possibilidade de pesquisar os pontos cadastrados por cidade.
+Aplicação focada em pontos de coleta para ajudar o meio ambiente e cadastrar materiais reciclaveis em pontos específicos de coleta.
 ![index](https://user-images.githubusercontent.com/53863282/83974297-ce827780-a8c2-11ea-8d74-3f8167407156.PNG)
 
-## Tecnologias utilizadas 🖥
+## Tecnologias utilizadas 
 
 * HTML 5
 * CSS 3
 * Javascript
 * NodeJs
 
-## API´s utilizadas 🌐
+## API´s utilizadas 
 * API de localidades(IBGE) - https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet 
 
 
